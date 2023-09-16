@@ -6,6 +6,8 @@ p  {color: white;}
 
 #navigation-td { padding-left: 70px;
                  padding-right: 70px;
+                 padding-top: 10px;
+                 padding-bottom: 10px;
                  text-align: center;}
 
 
