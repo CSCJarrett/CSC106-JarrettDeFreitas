@@ -4,10 +4,10 @@ p  {color: white;}
 
 #navigation-table {width: 800px;}
 
-#navigation-td { padding-left: 70px;
-                 padding-right: 70px;
-                 padding-top: 10px;
-                 padding-bottom: 10px;
+#navigation-td { padding-left: 60px;
+                 padding-right: 60px;
+                 padding-top: 5px;
+                 padding-bottom: 5px;
                  text-align: center;}
 
 
