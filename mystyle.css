@@ -1,9 +1,10 @@
 body {background-color: #83bdbf;}
+h1 {color: white;}
+p  {color: white;}
 
 #navigation-table {width: 800px;}
 
 #navigation-td { padding: 70px 0;
                  text-align: center;}
 
-h1 {color: white;}
-p  {color: white;}
+
