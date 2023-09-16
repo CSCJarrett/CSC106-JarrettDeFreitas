@@ -2,4 +2,5 @@ body {background-color: #83bdbf;}
 
 #navigation-table {width: 800px;}
 
-#navigation-td {width: 200px; text-align:center;}
+#navigation-td { padding: 70px 0;
+                 text-align: center;}
