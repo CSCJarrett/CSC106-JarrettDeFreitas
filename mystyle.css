@@ -1,13 +1,6 @@
 body {background-color: #83bdbf;}
-h1 {color: white;}
-p  {color: white;}
 
 #navigation-table {width: 800px;}
 
-#navigation-td { padding-left: 25px;
-                 padding-right: 25px;
-                 padding-top: 5px;
-                 padding-bottom: 5px;
+#navigation-td { padding: 70px 0;
                  text-align: center;}
-
-
