@@ -1,6 +1,10 @@
+
+
 body {background-color: #83bdbf;}
 h1 {color: white;}
 p  {color: white;}
+
+#background-about {url("https://github.com/CSCJarrett/CSCJarrett.github.io/blob/main/mybackground.png?raw=true");}
 
 #navigation-table {width: 800px;}
 
