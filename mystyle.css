@@ -1,10 +1,13 @@
-
-
 body {background-color: #83bdbf;}
 h1 {color: white;}
+h2 {color: white;}
 p  {color: white;}
 
-#background-about {url("mybackground.png");}
+#jarrett1 {float:right;
+            padding-right: 700px;}
+
+#jarrett2 {padding-left: 250px;}
+
 
 #navigation-table {width: 800px;}
 
@@ -13,3 +16,11 @@ p  {color: white;}
                  padding-top: 5px;
                  padding-bottom: 5px;
                  text-align: center;}
+
+#picture-table {width: 800px;}
+
+#picture-td { padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;}
