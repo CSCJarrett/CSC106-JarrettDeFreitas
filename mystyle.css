@@ -1,7 +1,8 @@
 body {background-color: #83bdbf;}
 h1 {color: white;}
 h2 {color: white;}
-p  {color: white;}
+p  {color: white;
+    width: 800px}
 
 #jarrett1 {float:right;
             padding-right: 700px;}
